@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[The Country Club]]></title><description><![CDATA[A blog to keep track of team notes]]></description><link>https://the-country-club.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 14 Oct 2019 20:48:56 GMT</lastBuildDate><item><title><![CDATA[Programming Links]]></title><description><![CDATA[This year, the team has been discussing building an app as for their solution!
+To help get going on this path, here are some links to start…]]></description><link>https://the-country-club.github.io/hello-world/</link><guid isPermaLink="false">https://the-country-club.github.io/hello-world/</guid><pubDate>Mon, 14 Oct 2019 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This year, the team has been discussing building an app as for their solution!
+To help get going on this path, here are some links to start using and learning about coding an app.
+We will add more helpful links as we find them.&lt;/p&gt;
+&lt;p&gt;This might be very confusing before learning the basics first.&lt;/p&gt;
+&lt;p&gt;Javascript is the language that is used when writing an app using React Native.
+Javascript handles the basic syntax of the code.
+This includes defining and using variables, defining and calling functions, importing and exporting modules, and many other low-level details.&lt;/p&gt;
+&lt;p&gt;React is the basic framework for putting together the various layers of the app as they are contained in components.
+React allows for the use of JSX within code to define the structure of the component.
+A component can include components defined by React Native (ScrollView, Text, Image, …).
+A component can also import and include components created by you! &lt;/p&gt;
+&lt;p&gt;React Native contains the pieces that convert your Javascript code into a native App.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://facebook.github.io/react-native/docs/tutorial&quot;&gt;React Tutorial&lt;/a&gt;
+This the React Native tutorial put together by Facebook.
+The tutorial will walk through some basics of passing props, styling, &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://snack.expo.io&quot;&gt;Expo Snack&lt;/a&gt;
+This is an online IDE (Integrated Development Environment) for create an app using React Native.
+If you have gone through the above React Tutorial, this is the bigger version of the examples you have already seen.
+The IDE has a preview of the code you are working on.
+You can also view the app at the same time on a device by clicking on the ‘Run’ button.&lt;/p&gt;</content:encoded></item></channel></rss>
