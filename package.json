@@ -53,7 +53,8 @@
     "url": "git+https://github.com/the-country-club/the-country-club.github.io.git"
   },
   "scripts": {
-    "build": "gatsby build && gh-pages -d public -b master",
+    "build": "gatsby build",
+    "gh-deploy": "gatsby build && gh-pages -d public -b master",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
