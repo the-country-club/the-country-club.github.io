@@ -1,22 +1,32 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: Programming Links
+date: "2019-10-14T22:12:03.284Z"
+description: "Links for learning about and trying out programming"
 ---
 
-This is my first post on my new fake blog! How exciting!
+This year, the team has been discussing building an app as for their solution!
+To help get going on this path, here are some links to start using and learning about coding an app.
+We will add more helpful links as we find them.
 
-I'm sure I'll write a lot more interesting things in the future.
+This might be very confusing before learning the basics first.
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
+Javascript is the language that is used when writing an app using React Native.
+Javascript handles the basic syntax of the code.
+This includes defining and using variables, defining and calling functions, importing and exporting modules, and many other low-level details.
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+React is the basic framework for putting together the various layers of the app as they are contained in components.
+React allows for the use of JSX within code to define the structure of the component.
+A component can include components defined by React Native (ScrollView, Text, Image, ...).
+A component can also import and include components created by you! 
 
-![Chinese Salty Egg](./salty_egg.jpg)
+React Native contains the pieces that convert your Javascript code into a native App.
+
+[React Tutorial](https://facebook.github.io/react-native/docs/tutorial)
+This the React Native tutorial put together by Facebook.
+The tutorial will walk through some basics of passing props, styling, 
+
+[Expo Snack](https://snack.expo.io)
+This is an online IDE (Integrated Development Environment) for create an app using React Native.
+If you have gone through the above React Tutorial, this is the bigger version of the examples you have already seen.
+The IDE has a preview of the code you are working on.
+You can also view the app at the same time on a device by clicking on the 'Run' button.
