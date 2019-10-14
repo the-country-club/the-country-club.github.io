@@ -21,10 +21,12 @@ A component can also import and include components created by you!
 
 React Native contains the pieces that convert your Javascript code into a native App.
 
+[![React Tutorial Pic](./react-tutorial.png)](https://facebook.github.io/react-native/docs/tutorial)
 [React Tutorial](https://facebook.github.io/react-native/docs/tutorial)
 This the React Native tutorial put together by Facebook.
 The tutorial will walk through some basics of passing props, styling, 
 
+[![Expo Snack Pic](./snack.png)](https://snack.expo.io)
 [Expo Snack](https://snack.expo.io)
 This is an online IDE (Integrated Development Environment) for create an app using React Native.
 If you have gone through the above React Tutorial, this is the bigger version of the examples you have already seen.

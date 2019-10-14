@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "the-country-club",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "A blog to keep track of team notes",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "The Country Club <dfgraham@gmail.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/the-country-club/the-country-club.github.io/issues"
   },
   "dependencies": {
     "gatsby": "^2.16.1",
@@ -39,15 +39,18 @@
   "devDependencies": {
     "prettier": "^1.18.2"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://the-country-club.github.io",
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "country club",
+    "first lego league",
+    "fll"
   ],
   "license": "MIT",
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git+https://github.com/the-country-club/the-country-club.github.io.git"
   },
   "scripts": {
     "build": "gatsby build && gh-pages -d public -b master",
