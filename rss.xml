@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[The Country Club]]></title><description><![CDATA[A blog to keep track of team notes]]></description><link>https://the-country-club.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 14 Oct 2019 20:48:56 GMT</lastBuildDate><item><title><![CDATA[Programming Links]]></title><description><![CDATA[This year, the team has been discussing building an app as for their solution!
-To help get going on this path, here are some links to start…]]></description><link>https://the-country-club.github.io/hello-world/</link><guid isPermaLink="false">https://the-country-club.github.io/hello-world/</guid><pubDate>Mon, 14 Oct 2019 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This year, the team has been discussing building an app as for their solution!
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[The Country Club]]></title><description><![CDATA[A blog to keep track of team notes]]></description><link>https://the-country-club.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 14 Oct 2019 22:01:04 GMT</lastBuildDate><item><title><![CDATA[Programming Links]]></title><description><![CDATA[This year, the team has been discussing building an app as for their solution!
+To help get going on this path, here are some links to start…]]></description><link>https://the-country-club.github.io/programming-links/</link><guid isPermaLink="false">https://the-country-club.github.io/programming-links/</guid><pubDate>Mon, 14 Oct 2019 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This year, the team has been discussing building an app as for their solution!
 To help get going on this path, here are some links to start using and learning about coding an app.
 We will add more helpful links as we find them.&lt;/p&gt;
 &lt;p&gt;This might be very confusing before learning the basics first.&lt;/p&gt;
@@ -11,10 +11,56 @@ React allows for the use of JSX within code to define the structure of the compo
 A component can include components defined by React Native (ScrollView, Text, Image, …).
 A component can also import and include components created by you! &lt;/p&gt;
 &lt;p&gt;React Native contains the pieces that convert your Javascript code into a native App.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://facebook.github.io/react-native/docs/tutorial&quot;&gt;React Tutorial&lt;/a&gt;
+&lt;p&gt;&lt;a href=&quot;https://facebook.github.io/react-native/docs/tutorial&quot;&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 69.83471074380165%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAABYlAAAWJQFJUiTwAAACx0lEQVQ4y3WS2U9TQRTG7x8hERDSjbaX2/bS7XahFHCJEU1cEn0hCEVKRXGJJL7oq3+TogK+YYNvhNQYSFtaKLZ2gba0UCifc6YtKTFO8suZO3fmm++cOUKnVkKv7EG3aEOPycljr0ZEZ48OHV1qzqVO1T+0/jVQ4bLKgA62LkzOzuPJq7eYfv4GgfkFTM29xnTwGSYDIUxMBRGYmUPw6QvOTGj+PE5OhziPA7OYYefn3n9AcOEdhGqlgnz2D/K5LCrlMmrHx6jVaqiwdRrVagWJRALJZBKpVOo8/m8Ihf19JHd2sL29jXQ6g+rRERcrM/F6vY5cLodwOIy1tTVEIhGsrn7H+vo6zs7OOKendcZpg5MTCNF0Fr9+RvjmjY0NFAoFHDHRw8NDvoncHhwcsPU89tnlBM3T6TT29vaQyWSaawW+JmSZg2g0imKxyH+Qs2q1yl2SQ4qxWBwJluoOy2R3N8XYbQr+RqlUYgaO+RlCyOfzfAM5IVpiJExjNfwDjyZCmJp9iYfjQdx5MMG5fb/B2N1xjN0bZ3MGi1yQbm45pFRJlG6m8WlxCXqjBWbbELT9CgxmD/QmF7R6GX2SFRrJji61hdOtkSGQCKUcj8extbWFbDbLa9gSXFpegWKzwekegYPh8V2H2zsKxeuHa3gYypAPosUNUfayCxT2yqyYJEStQS9NLdHucPHLMhyyjBGPG5JZgWRywGQdhOwcgdnqg2y2w2L18u8+ydUQ3Nzc5GIEtUm7w4+fl6ER7VD8N2CxMdEBN7SWQWiMdmitfugcV9m3D0arAuOAq5FysvmCJEg1bRdc/PoNvSYP+n234L52E27/KKwKc+fww9CsK6Hrd7LoaDik+lHKRKttzh+FObyikiCyNPvkQaj1zJlIh53MpQNqg/0CXDAWi3FREmn1U6lUbtZwBT26gcYBvQ1q40UBEm3nL6EADwQVRr6+AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;React Tutorial Pic&quot;
+        title=&quot;React Tutorial Pic&quot;
+        src=&quot;/static/11a366d71c6524168e8ca7ce019e114f/b9e4f/react-tutorial.png&quot;
+        srcset=&quot;/static/11a366d71c6524168e8ca7ce019e114f/cf440/react-tutorial.png 148w,
+/static/11a366d71c6524168e8ca7ce019e114f/d2d38/react-tutorial.png 295w,
+/static/11a366d71c6524168e8ca7ce019e114f/b9e4f/react-tutorial.png 590w,
+/static/11a366d71c6524168e8ca7ce019e114f/f9b6a/react-tutorial.png 885w,
+/static/11a366d71c6524168e8ca7ce019e114f/2d849/react-tutorial.png 1180w,
+/static/11a366d71c6524168e8ca7ce019e114f/d7e44/react-tutorial.png 1452w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/a&gt;
+&lt;a href=&quot;https://facebook.github.io/react-native/docs/tutorial&quot;&gt;React Tutorial&lt;/a&gt;
 This the React Native tutorial put together by Facebook.
 The tutorial will walk through some basics of passing props, styling, &lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://snack.expo.io&quot;&gt;Expo Snack&lt;/a&gt;
+&lt;p&gt;&lt;a href=&quot;https://snack.expo.io&quot;&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 68.07881773399015%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAABYlAAAWJQFJUiTwAAADD0lEQVQ4y22US08TYRiF+z8UhbZ02plOO53OjU5LC0xBEw0Ll/4GF8aFukI3unLrykQTXGgk0URFTFxAlIgbFbkWUGwBFYONQLlYg8fzTSOwcJI339z6fOc9550GOk+cgdN+Ema2G/F0HlLCRWvcQVi2EVa4KjYk1YFq5JG0upA0O2DzffFuTMsiYXTg1u27uD/wEOcuXEJAdzyofBgiIKK2+ZCIYsKxHMTbPMhWAapTQNzKQ0nYfM+CksryN+2QtRwMtwsF7yxOdd9E2ulBwMh0Q5R4GE1kEYkTGjOgmzYUJ897NqKajViKGyoGjjSrSKRzeDH8EpOlebyfmsa7iRmMT1Tw9sMUAkK6ZnVC0dshJTN+iwIoqxYiegFSKuefy+k2yIRKSQNWtguzC5+wubOL9a0t1jZ+1jawsb0jFBaRoC8tUROqnff9i8gmNI0Q4VvapU8ZaA79ctoRittI2R2Ymf+I0bE3uPdgAE+HhvDo8RMsLi03FBouA6HCYNTyw2hVLNi2C9PMIKqkGRRbTpgIM4RmWpKyOjAxU0J1c5Ow57jT34/hV6NY+7lOhYRlO08j3VZkS2w7wbZpfFS1oblF6AxGdzphZjzENRdHW1RaVMA0/avv/cHy12+Yni1hde0Haru7jZTzxV7CcgjGhDrHVxiU0oiJsLiRSF/cExs1hTSOTh7LK1/wfXUV4+PjKJVKmJycxPo6FTZmrVEhf/YEtBFMnMBWWhKMmWiO6GjhJk2hJIEFVJZWUKvVsLj4GZVKBeVyGVsMKCAgh+sfUFSIATW3phpFYDBq+ECNwHJlGeKoVqsYHHyGhYUF//qQwgOgxCSVJOePX0hIpaf0VZzvK2T65cqSDxDKPM/DyMjI/4HCwzDHxnD4ibkeIkkXkpZBjDMa4UbHqVZm2tOzcz5gjWG8HhvDJtv/Va8ftByWD4AheiaS9Hp6oTPdVC7PWcz60GNhzV/n6J04fgP7a31vDwHxZyDG5XAoAh5lmzLHJEx4i2Q07gm1tEB3unD+Yh+uXLuBy33XcZWrKHH9F9kHSPy/I2NmAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Expo Snack Pic&quot;
+        title=&quot;Expo Snack Pic&quot;
+        src=&quot;/static/44444ff68e6786e21eabcf1d276e88f5/b9e4f/snack.png&quot;
+        srcset=&quot;/static/44444ff68e6786e21eabcf1d276e88f5/cf440/snack.png 148w,
+/static/44444ff68e6786e21eabcf1d276e88f5/d2d38/snack.png 295w,
+/static/44444ff68e6786e21eabcf1d276e88f5/b9e4f/snack.png 590w,
+/static/44444ff68e6786e21eabcf1d276e88f5/f9b6a/snack.png 885w,
+/static/44444ff68e6786e21eabcf1d276e88f5/2d849/snack.png 1180w,
+/static/44444ff68e6786e21eabcf1d276e88f5/337cb/snack.png 2030w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/a&gt;
+&lt;a href=&quot;https://snack.expo.io&quot;&gt;Expo Snack&lt;/a&gt;
 This is an online IDE (Integrated Development Environment) for create an app using React Native.
 If you have gone through the above React Tutorial, this is the bigger version of the examples you have already seen.
 The IDE has a preview of the code you are working on.
